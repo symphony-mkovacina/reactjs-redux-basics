@@ -18,4 +18,4 @@ export const Main = (props) => {
             </div>
         </div>
     );
-}
+};
